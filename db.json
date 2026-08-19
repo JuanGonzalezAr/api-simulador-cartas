@@ -1,0 +1,10 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Juan Sebastian Gonzalez" },
+    { "id": 2, "nombre": "Jugador Invitado" }
+  ],
+  "barajas": [
+    { "usuarioId": 1, "cartasIds": [101, 105, 110, 120] },
+    { "usuarioId": 2, "cartasIds": [102, 103, 115] }
+  ]
+}
